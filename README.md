@@ -1,1 +1,1 @@
-# dotfiles
+MY PROJECT -*- mode: org -*-
